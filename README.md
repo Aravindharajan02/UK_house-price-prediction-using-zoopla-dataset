@@ -25,6 +25,12 @@ The dataset employed is the "Zoopla properties listing information.csv" dataset,
 - Price per size
 - Address (postal code)
 - Price (target variable)
+- 
+![zoopla hist](https://github.com/user-attachments/assets/72e8e68e-605b-4f89-a6bb-ee3be0225dc9)
+
+![pairplot](https://github.com/user-attachments/assets/0156134d-a49b-4517-b182-d88ecbd5b193)
+
+![heatmap_zoopla](https://github.com/user-attachments/assets/7c66449f-aa03-47a9-b02d-c806e5f35d06)
 
 ## Libraries Used
 - **pandas**: Data manipulation and analysis
